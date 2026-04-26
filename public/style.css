@@ -49,6 +49,7 @@ body {
 .message-container {
     display: flex;
     flex-direction: column;
+    justify-content: flex-end;
     background-color: #f6f6f6;
     width: 400px;
     height: 600px;
